@@ -1,0 +1,32 @@
+/* ==========================================================================
+   Miscellaneous mixins
+   ========================================================================== */
+
+/**
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+@mixin clearfix {
+  &:before,
+  &:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+  }
+
+  &:after {
+    clear: both;
+  }
+}
+
+/* Box sizing with vendor prefixes */
+
+@mixin box-sizing($type: border-box) {
+  -moz-box-sizing: $type;
+       box-sizing: $type;
+}
