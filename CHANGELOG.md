@@ -1,5 +1,7 @@
 === HEAD
 
+* README: Move _Requirements_ section
+
 === 0.2.0 (July 13, 2013)
 
 * Finish the README file

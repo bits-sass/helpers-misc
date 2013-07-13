@@ -5,10 +5,6 @@ Collection of miscellaneous, commonly used mixins. See [other mixins](https://gi
 
 Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
 
-## Requirements
-
-* Sass 3.2+
-
 ## Installation
 
 * __Bower:__ `bower install --save bits-css-mixins-misc`
@@ -21,6 +17,10 @@ Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
 * `box-sizing` - vendor prefixed
 * `user-select` - vendor prefixed
 * `opacity` - cross-browser opacity
+
+## Requirements
+
+* Sass 3.2+
 
 ## Browser support
 
