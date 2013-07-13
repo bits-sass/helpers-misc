@@ -1,4 +1,35 @@
-mixins-misc
+Bits.css mixins: misc
 ===========
 
-Miscellaneous used mixins
+Collection of miscellaneous, commonly used mixins.
+
+Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
+
+## Requirements
+
+* Sass 3.2+
+
+## Installation
+
+* __Bower:__ bower install --save bits-css-mixins-misc
+* __Download:__ [zip](https://github.com/bits-css/mixins-misc/zipball/master), [tar.gz](https://github.com/bits-css/mixins-misc/tarball/master)
+* __Git:__ git clone https://github.com/bits-css/mixins-misc.git
+
+## Available SASS variables
+
+None.
+
+## Available mixins
+
+* `clearfix` - a modern version of micro clearfix
+* `box-sizing` - vendor prefixed
+* `user-select` - vendor prefixed
+* `opacity` - cross-browser opacity
+
+## Browser support
+
+* Google Chrome (latest)
+* Opera (latest)
+* Firefox 4+
+* Safari 5+
+* Internet Explorer 8+
