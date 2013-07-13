@@ -1,7 +1,7 @@
 Bits.css mixins: misc
 ===========
 
-Collection of miscellaneous, commonly used mixins.
+Collection of miscellaneous, commonly used mixins. See [other mixins](https://github.com/bits-css/mixins).
 
 Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
 
