@@ -15,10 +15,6 @@ Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
 * __Download:__ [zip](https://github.com/bits-css/mixins-misc/zipball/master), [tar.gz](https://github.com/bits-css/mixins-misc/tarball/master)
 * __Git:__ `git clone https://github.com/bits-css/mixins-misc.git`
 
-## Available SASS variables
-
-None.
-
 ## Available mixins
 
 * `clearfix` - a modern version of micro clearfix
