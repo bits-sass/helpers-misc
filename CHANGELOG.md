@@ -1,5 +1,8 @@
 === HEAD
 
+=== 0.3.0 (July 14, 2013)
+
+* Rename organization's name to 'Bits.scss'
 * README: Move _Requirements_ section
 
 === 0.2.0 (July 13, 2013)
