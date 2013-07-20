@@ -1,15 +1,15 @@
-Bits.scss mixins: misc
+Bits.sass mixins: misc
 ===========
 
-Collection of miscellaneous, commonly used mixins. See [other mixins](https://github.com/bits-scss/mixins).
+Collection of miscellaneous, commonly used mixins. See [other mixins](https://github.com/bits-sass/mixins).
 
-Read more about [Bits.scss toolkit](https://github.com/bits-scss/bits.scss).
+Read more about [Bits.sass toolkit](https://github.com/bits-sass/bits.sass).
 
 ## Installation
 
-* __Bower:__ `bower install --save bits-scss-mixins-misc`
-* __Download:__ [zip](https://github.com/bits-scss/mixins-misc/zipball/master), [tar.gz](https://github.com/bits-scss/mixins-misc/tarball/master)
-* __Git:__ `git clone https://github.com/bits-scss/mixins-misc.git`
+* __Bower:__ `bower install --save bits-sass-mixins-misc`
+* __Download:__ [zip](https://github.com/bits-sass/mixins-misc/zipball/master), [tar.gz](https://github.com/bits-sass/mixins-misc/tarball/master)
+* __Git:__ `git clone https://github.com/bits-sass/mixins-misc.git`
 
 ## Available mixins
 
