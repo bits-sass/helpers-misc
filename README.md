@@ -1,15 +1,15 @@
-Bits.sass mixins: misc
+Bits.sass helpers: misc
 ===========
 
-Collection of miscellaneous, commonly used mixins. See [other mixins](https://github.com/bits-sass/mixins).
+Collection of miscellaneous, commonly used functions and mixins. See [other helpers](https://github.com/bits-sass/helpers).
 
 Read more about [Bits.sass toolkit](https://github.com/bits-sass/bits.sass).
 
 ## Installation
 
-* __Bower:__ `bower install --save bits-sass-mixins-misc`
-* __Download:__ [zip](https://github.com/bits-sass/mixins-misc/zipball/master), [tar.gz](https://github.com/bits-sass/mixins-misc/tarball/master)
-* __Git:__ `git clone https://github.com/bits-sass/mixins-misc.git`
+* __Bower:__ `bower install --save bits-sass-helpers-misc`
+* __Download:__ [zip](https://github.com/bits-sass/helpers-misc/zipball/master), [tar.gz](https://github.com/bits-sass/helpers-misc/tarball/master)
+* __Git:__ `git clone https://github.com/bits-sass/helpers-misc.git`
 
 ## Available mixins
 
