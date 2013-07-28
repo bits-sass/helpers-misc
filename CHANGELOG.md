@@ -1,5 +1,9 @@
 === HEAD
 
+=== 0.4.1 (July 28, 2013)
+
+* Fix 'opacity' mixin to work correctly on IE 8
+
 === 0.4.0 (July 25, 2013)
 
 * Rename package name to a more precise 'helpers'

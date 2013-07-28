@@ -40,12 +40,12 @@
 }
 
 /**
- * Cross-browser opacity
+ * Cross-browser opacity, use decimal numbers <=1 (ie. 0.7)
  *
  * 1. IE8 specific
  */
 
-@mixin opacity($opacity: 0.5) {
-  filter: alpha(opacity=#{opacity/100}); /* 1 */
+@mixin opacity($opacity) {
   opacity: $opacity;
+  filter: alpha(opacity=#{$opacity*100}); /* 1 */
 }
