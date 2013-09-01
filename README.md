@@ -13,9 +13,6 @@ Read more about [Bits.sass toolkit](https://github.com/bits-sass/bits.sass).
 
 ## Available mixins
 
-* `clearfix` - a modern version of micro clearfix
-* `box-sizing` - vendor prefixed
-* `user-select` - vendor prefixed
 * `opacity` - cross-browser opacity
 
 ## Requirements
