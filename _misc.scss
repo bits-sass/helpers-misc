@@ -8,38 +8,6 @@
     ========================================================================== */
 
 /**
- * Micro clearfix, as per: css-101.org/articles/clearfix/latest-new-clearfix-so-far.php
- */
-
-@mixin clearfix {
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-}
-
-/*
- * Box sizing with vendor prefixes
- */
-
-@mixin box-sizing($type: border-box) {
-  -moz-box-sizing: $type;
-       box-sizing: $type;
-}
-
-/**
- * User select with vendor prefixes, only safe value is 'none'
- */
-
-@mixin user-select($type: none) {
-  -webkit-user-select: $type;
-     -moz-user-select: $type;
-      -ms-user-select: $type;
-          user-select: $type;
-}
-
-/**
  * Cross-browser opacity, use decimal numbers <=1 (ie. 0.7)
  *
  * 1. IE8 specific

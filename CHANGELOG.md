@@ -1,5 +1,8 @@
 === HEAD
 
+* Remove all mixins but `opacity`, because autoprefixer should take care of all
+  prefixes
+
 === 0.4.1 (July 28, 2013)
 
 * Fix 'opacity' mixin to work correctly on IE 8
