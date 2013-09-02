@@ -3,6 +3,7 @@
 * Remove all mixins but `opacity`, because autoprefixer should take care of all
   prefixes
 * Reorder properties in `opacity` mixin
+* Use new style for comments
 
 === 0.4.1 (July 28, 2013)
 
