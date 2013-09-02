@@ -1,5 +1,7 @@
 === HEAD
 
+=== 0.5.0 (September 2, 2013)
+
 * Remove all mixins but `opacity`, because autoprefixer should take care of all
   prefixes
 * Reorder properties in `opacity` mixin

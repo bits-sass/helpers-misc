@@ -1,6 +1,6 @@
 {
   "name": "bits-sass-helpers-misc",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "author": "Lukáš Mladý",
   "main": "_misc.scss"
 }
